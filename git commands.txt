@@ -1,14 +1,14 @@
-git init : 			intialize a git repo
-git mkdir folder_name : 	to create a folder.
-git touch file_name : 		to create a file like txt or pdf
-git vi file_name : 		to write or modify into the file
-git cat file_name:		to show the changes made in file.
-ls			to show the list of files available
-ls -a			to show hidden files 
-cd folder_name:		to get inside a folder
-git add:			to add the changes made in directory.
-git restore --staged file_name   to unstage the added file
-git commit -m "your_mesg"	to commit the changes
-git status			to see the status of chages made in dir
-git log			to see the commit log 
-git reset log_num		to  unstage all  the commit before that log_num commit.
+git init : 				intialize a git repo
+git mkdir folder_name : 		to create a folder.
+git touch file_name : 			to create a file like txt or pdf
+git vi file_name : 			to write or modify into the file
+git cat file_name:			to show the changes made in file.
+ls					to show the list of files available
+ls -a					to show hidden files 
+cd folder_name:			to get inside a folder
+git add:				to add the changes made in directory.
+git restore --staged file_name 	to unstage the added file
+git commit -m "your_mesg"		to commit the changes
+git status				to see the status of chages made in dir
+git log					to see the commit log 
+git reset log_num			to  unstage al the commit before that log_num commit.
